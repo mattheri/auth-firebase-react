@@ -1,0 +1,1 @@
+export const weaponsSelector = (state) => state.weapons.weapons;
